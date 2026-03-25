@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "moldea-async"
-version = "1.0.0"
+name = "moldea_async"
+version = "1.0.1"
 description = "The official SDK for accessing and integrating moldea’s API in your applications. "
 readme = "README.md"
 license = {text = "MIT"}
